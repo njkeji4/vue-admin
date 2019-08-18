@@ -1,5 +1,29 @@
-# vue-admin
-with vue,elementUI to implement an adminLTE similar UI. adminLTE is based on bootstrap. 
-2019.8.17:
-	initial version,admin
-	again
+# hello-world
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
